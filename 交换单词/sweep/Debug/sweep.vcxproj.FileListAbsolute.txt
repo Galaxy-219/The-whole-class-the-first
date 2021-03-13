@@ -1,0 +1,2 @@
+D:\C语言\交换单词\sweep\Debug\sweep.exe
+D:\C语言\交换单词\sweep\Debug\sweep.pdb

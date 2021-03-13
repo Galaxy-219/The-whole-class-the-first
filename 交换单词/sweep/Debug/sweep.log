@@ -1,0 +1,3 @@
+﻿  sweep.c
+D:\C语言\交换单词\sweep\sweep.c(18,6): warning C4013: “gets”未定义；假设外部返回 int
+  sweep.vcxproj -> D:\C语言\交换单词\sweep\Debug\sweep.exe
