@@ -1,0 +1,2 @@
+D:\C语言\字符两端移动中间汇聚\huiju\Debug\huiju.exe
+D:\C语言\字符两端移动中间汇聚\huiju\Debug\huiju.pdb
