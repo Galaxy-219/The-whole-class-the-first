@@ -1,0 +1,2 @@
+D:\C语言\打印乘法口诀表\chengfabiao\Debug\chengfabiao.exe
+D:\C语言\打印乘法口诀表\chengfabiao\Debug\chengfabiao.pdb
