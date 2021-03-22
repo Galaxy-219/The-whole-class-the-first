@@ -1,0 +1,4 @@
+﻿  binary.c
+D:\C语言\二分查找函数\binary\binary.c(41,36): warning C4474: printf: 格式字符串中传递的参数太多
+D:\C语言\二分查找函数\binary\binary.c(41,36): message : 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+  binary.vcxproj -> D:\C语言\二分查找函数\binary\Debug\binary.exe
