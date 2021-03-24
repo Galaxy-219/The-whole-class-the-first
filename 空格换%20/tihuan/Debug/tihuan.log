@@ -1,0 +1,4 @@
+﻿  tihuan.c
+D:\C语言\空格换%20\tihuan\tihuan.c(31,19): warning C4047: “函数”:“char *”与“char (*)[30]”的间接级别不同
+D:\C语言\空格换%20\tihuan\tihuan.c(31,15): warning C4024: “replaceSpace”: 形参和实参 1 的类型不同
+  tihuan.vcxproj -> D:\C语言\空格换%20\tihuan\Debug\tihuan.exe
