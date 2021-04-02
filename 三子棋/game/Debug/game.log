@@ -1,0 +1,17 @@
+﻿  game.c
+D:\C语言\三子棋\game\game.c(116,12): error C2143: 语法错误: 缺少“)”(在“;”的前面)
+D:\C语言\三子棋\game\game.c(116,16): warning C4552: ”<“: 未使用表达式结果
+D:\C语言\三子棋\game\game.c(116,26): error C2059: 语法错误:“)”
+D:\C语言\三子棋\game\game.c(117,3): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+D:\C语言\三子棋\game\game.c(124,12): error C2143: 语法错误: 缺少“)”(在“;”的前面)
+D:\C语言\三子棋\game\game.c(124,16): warning C4552: ”<“: 未使用表达式结果
+D:\C语言\三子棋\game\game.c(124,26): error C2059: 语法错误:“)”
+D:\C语言\三子棋\game\game.c(125,3): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+D:\C语言\三子棋\game\game.c(111): fatal error C1075: “{”: 未找到匹配令牌
+  test.c
+D:\C语言\三子棋\game\test.c(26,19): error C2198: “IsWin”: 用于调用的参数太少
+D:\C语言\三子棋\game\test.c(27,14): error C2059: 语法错误:“=”
+D:\C语言\三子棋\game\test.c(35,19): error C2198: “IsWin”: 用于调用的参数太少
+D:\C语言\三子棋\game\test.c(36,14): error C2059: 语法错误:“=”
+D:\C语言\三子棋\game\test.c(40,2): error C2059: 语法错误:“}”
+  正在生成代码...

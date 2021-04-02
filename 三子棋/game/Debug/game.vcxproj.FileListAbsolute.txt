@@ -1,0 +1,2 @@
+D:\C语言\三子棋\game\Debug\game.exe
+D:\C语言\三子棋\game\Debug\game.pdb
